@@ -1,20 +1,26 @@
-<h1 align="center">Hi, I'm Muhamad Hafidz Putra 👋</h1>
+<div align="center">
 
-<p align="center">
-  Full-Stack Web Developer in the making · Informatics Student · Automation Enthusiast
-</p>
+<img src="./assets/pixel-dev.svg" alt="Pixel art of a laptop with code, a coffee mug and a plant" width="360" />
 
-<p align="center">
+<h1>Hi, I'm Muhamad Hafidz Putra 👋</h1>
+
+<a href="https://github.com/HFDZ-PTR">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&height=40&lines=Full-Stack+Web+Developer;Informatics+Student;Web+Scraping+%26+Automation;Compiler+Design+Enthusiast" alt="Typing animation" />
+</a>
+
+<p>
   <a href="https://www.linkedin.com/in/your-linkedin-id">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=HFDZ-PTR&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=HFDZ-PTR&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
----
+</div>
+
+<img src="./assets/pixel-divider.svg" width="100%" height="8" alt="" />
 
 ## 👨‍💻 About Me
 
@@ -23,7 +29,7 @@
 - 🔍 Interested in **Full-Stack Web Development**, **Web Scraping & Automation**, **Software Engineering**, and **Compiler Design**
 - 🌱 Focused on building clean, maintainable, and practical web applications
 
----
+<img src="./assets/pixel-divider.svg" width="100%" height="8" alt="" />
 
 ## 🛠️ Tech Stack
 
@@ -50,59 +56,42 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+<img src="./assets/pixel-divider.svg" width="100%" height="8" alt="" />
 
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
 | :-- | :-- | :-- |
 | **MSME Bazaar Information Aggregation System** | Dynamic web scraping system that collects bazaar event information, using the Fisher-Yates shuffle algorithm and real-time Telegram notifications. | `Node.js` `Puppeteer` `Telegram Bot API` |
+| **Personal Notes App V2** | Single Page Application with authentication via a RESTful API and global state management using React Context. | `React` `Vite` `REST API` `React Context` |
+| **PT Andalan Rapih Sejahtera Web Platform** | Commercial web application with payment gateway integration for online transactions. | `Web App` `Midtrans` |
 
 > 🔗 Explore all repositories: [github.com/HFDZ-PTR?tab=repositories](https://github.com/HFDZ-PTR?tab=repositories)
 
----
+<img src="./assets/pixel-divider.svg" width="100%" height="8" alt="" />
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HFDZ-PTR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HFDZ-PTR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HFDZ-PTR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HFDZ-PTR&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
 </p>
 
----
+<img src="./assets/pixel-divider.svg" width="100%" height="8" alt="" />
+
+## 🤝 Connect With Me
+
+I'm always open to learning opportunities, collaboration, and conversations about web development and software engineering.
+
+<p>
+  <a href="https://www.linkedin.com/in/your-linkedin-id">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 <p align="center">
   <sub>Thanks for visiting my profile. ⭐</sub>
 </p>
-
-<!-- Retro Pixel Banner -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" /> Hi, I'm Muhamad Hafidz Putra!
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Informatics+Student+%40+Universitas+Gunadarma;Full+Stack+Cohort+%40+Asah+led+by+Dicoding;Web+Development+%7C+Automation+%7C+Compiler+Design" alt="Typing SVG" />
-</p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" alt="Retro Pixel Coding" />
-</div>
-
----
-
-### 🕹️ PLAYER PROFILE (`./about-me.sh`)
-
-```yaml
-name: "Muhamad Hafidz Putra"
-class: "Full-Stack Web Developer"
-guild: "Universitas Gunadarma (FTI - Informatics '23)"
-current_quest: "Asah led by Dicoding x GoTo — Full Stack Cohort"
-location: "Jakarta, Indonesia"
-main_skills:
-  - "Full-Stack Web Development (React, Node.js, Express)"
-  - "Dynamic Web Scraping & Automation (Puppeteer)"
-  - "Software Engineering & Compiler Design"
