@@ -74,3 +74,35 @@
 <p align="center">
   <sub>Thanks for visiting my profile. ⭐</sub>
 </p>
+
+<!-- Retro Pixel Banner -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" /> Hi, I'm Muhamad Hafidz Putra!
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Informatics+Student+%40+Universitas+Gunadarma;Full+Stack+Cohort+%40+Asah+led+by+Dicoding;Web+Development+%7C+Automation+%7C+Compiler+Design" alt="Typing SVG" />
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" alt="Retro Pixel Coding" />
+</div>
+
+---
+
+### 🕹️ PLAYER PROFILE (`./about-me.sh`)
+
+```yaml
+name: "Muhamad Hafidz Putra"
+class: "Full-Stack Web Developer"
+guild: "Universitas Gunadarma (FTI - Informatics '23)"
+current_quest: "Asah led by Dicoding x GoTo — Full Stack Cohort"
+location: "Jakarta, Indonesia"
+main_skills:
+  - "Full-Stack Web Development (React, Node.js, Express)"
+  - "Dynamic Web Scraping & Automation (Puppeteer)"
+  - "Software Engineering & Compiler Design"
